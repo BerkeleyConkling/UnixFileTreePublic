@@ -1,2 +1,1 @@
-# UnixFileTreePublic
-A public repository to contain my unix file system project.
+This is the repository containing the code from my Unix File System project. The other repository was forced to be private by the course.
